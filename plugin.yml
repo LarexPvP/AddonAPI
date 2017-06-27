@@ -1,0 +1,5 @@
+name: AddonAPI
+author: Larex
+version: 1.0
+main: de.larex.addonapi.main
+commands:
